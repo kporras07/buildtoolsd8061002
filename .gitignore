@@ -1,3 +1,8 @@
+# :::::::::::::::::::::: cut ::::::::::::::::::::::
+
+# Put ignore patterns for css build artifacts and similar items below.
+# Files below this line are still ignored on Pantheon.
+# Files above this line are only ignored in the source repository.
 # This file contains .gitignore rules that are often used with Drupal projects.
 # Because .gitignore is specific to your site and its deployment processes, you
 # may need to uncomment, add, or remove rules.
